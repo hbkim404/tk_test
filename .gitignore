@@ -11,3 +11,4 @@ wheels/
 
 # Generated json
 pizza_recipes.json
+indexed_pizza_recipes.json
