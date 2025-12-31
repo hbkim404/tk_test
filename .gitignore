@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Misc
+.DS_Store
+
 # Generated json
 pizza_recipes.json
 indexed_pizza_recipes.json
