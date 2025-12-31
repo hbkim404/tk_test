@@ -1,6 +1,6 @@
 # Pizza Recipes
 
-This project allows the user to scrap pizza recipe information from this [recipes site]("https://recetas.elperiodico.com/Pizza-busqCate-1.html") and work on the results.
+This project allows the user to scrap pizza recipe information from the [Recetas El Periodico](https://recetas.elperiodico.com/Pizza-busqCate-1.html) website and work on the results.
 
 Unfinished solution for provided problem during the interview.
 
